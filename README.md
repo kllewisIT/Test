@@ -18,3 +18,4 @@ To build a scalable and secure Windows domain environment using VirtualBox.
 * Windows Server 2025
 * Oracle VirtualBox
 * PowerShell (for bulk user creation)
+![A description of my project](images/IT-GUY.jpg)
